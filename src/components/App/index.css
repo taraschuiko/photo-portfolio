@@ -2,6 +2,7 @@ h1 {
   padding: 20px;
   margin: 0;
   display: inline-block;
+  font-weight: bold;
 }
 
 span {
