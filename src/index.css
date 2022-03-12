@@ -3,5 +3,5 @@
 body {
   margin: 0;
   font-family: 'League Spartan', sans-serif;
-  letter-spacing: normal;
+  letter-spacing: 0.001em;
 }
