@@ -8,6 +8,7 @@ function importAll(r) {
   return r.keys().map(r);
 }
 
+// Minify all images to 75% quality before using
 const images = importAll(
   require.context("../../photos", false, /\.(png|jpe?g)$/)
 ).sort(() => 0.5 - Math.random());
