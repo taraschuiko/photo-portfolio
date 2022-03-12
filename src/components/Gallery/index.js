@@ -32,7 +32,7 @@ const Image = ({ image }) => {
 const breakpointColumns = {
   default: 3,
   768: 2,
-  425: 1
+  320: 1
 };
 
 const Gallery = () => (
