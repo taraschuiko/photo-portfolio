@@ -13,5 +13,17 @@
 /* Style your items */
 .my-masonry-grid_column > img { /* change div to reference your elements you put in <Masonry> */
   width: 100%;
-  margin-bottom: 30px;
+  margin-bottom: 26px;
+}
+
+@media screen and (max-width: 425px) {
+  .my-masonry-grid {
+    margin-left: -15px; /* gutter size offset */
+  }
+  .my-masonry-grid_column {
+    padding-left: 15px; /* gutter size */
+  }
+  .my-masonry-grid_column > img {
+    margin-bottom: 11px;
+  }
 }

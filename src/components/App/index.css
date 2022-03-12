@@ -11,3 +11,9 @@ span {
 .App > img {
   margin-bottom: 26px;
 }
+
+@media screen and (max-width: 425px) {
+  .App > img {
+    margin-bottom: 11px;
+  }
+}
