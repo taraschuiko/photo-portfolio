@@ -1,0 +1,13 @@
+h1 {
+  padding: 20px;
+  margin: 0;
+  display: inline-block;
+}
+
+span {
+  font-size: 1.2em;
+}
+
+.App > img {
+  margin-bottom: 26px;
+}
