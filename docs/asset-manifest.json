@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/photo-portfolio/static/css/main.4c06a400.css",
-    "main.js": "/photo-portfolio/static/js/main.2c814af2.js",
+    "main.js": "/photo-portfolio/static/js/main.110598d4.js",
     "static/media/IMG_8452.jpg": "/photo-portfolio/static/media/IMG_8452.187258c35db7ca5319f1.jpg",
     "static/media/IMG_8346.jpg": "/photo-portfolio/static/media/IMG_8346.dfa6a8ab9381887c4636.jpg",
     "static/media/IMG_8338.jpg": "/photo-portfolio/static/media/IMG_8338.fb683d6feaf05de980d5.jpg",
@@ -18,10 +18,13 @@
     "static/media/20220103161014_IMG_7820 (1).jpg": "/photo-portfolio/static/media/20220103161014_IMG_7820 (1).04f7a8bb7b9ac1b31dd4.jpg",
     "static/media/DSC04886.jpg": "/photo-portfolio/static/media/DSC04886.18e77912d96f6d72e64b.jpg",
     "static/media/DSC03800.jpg": "/photo-portfolio/static/media/DSC03800.2873c7885911618203eb.jpg",
+    "static/media/IMG_8759.jpg": "/photo-portfolio/static/media/IMG_8759.733e182d7cc7b163e759.jpg",
+    "static/media/IMG_8748.jpg": "/photo-portfolio/static/media/IMG_8748.bc31347bd9068419f6c1.jpg",
     "static/media/DSC01522.jpg": "/photo-portfolio/static/media/DSC01522.963ced642fb6fb5be675.jpg",
     "static/media/DSC03860.jpg": "/photo-portfolio/static/media/DSC03860.6fd88985942a188fe0d5.jpg",
     "static/media/DSC01015.jpg": "/photo-portfolio/static/media/DSC01015.5ffe73e6b6cc3732b886.jpg",
     "static/media/DSC04474.jpg": "/photo-portfolio/static/media/DSC04474.95fabfcdf6c67925babf.jpg",
+    "static/media/IMG_8732.jpg": "/photo-portfolio/static/media/IMG_8732.83aa6d1468ebc3b3faff.jpg",
     "static/media/20220103153533_IMG_7766 (1).jpg": "/photo-portfolio/static/media/20220103153533_IMG_7766 (1).31998b247fac3546f7b5.jpg",
     "static/media/DSC04520.jpg": "/photo-portfolio/static/media/DSC04520.bab09530e19c1e29ec6a.jpg",
     "static/media/20220112163753_IMG_8027 (3).jpg": "/photo-portfolio/static/media/20220112163753_IMG_8027 (3).099afb25ac19eeb4c705.jpg",
@@ -49,10 +52,10 @@
     "static/media/DSC01323.jpg": "/photo-portfolio/static/media/DSC01323.cda5ca871b9ed1d29e17.jpg",
     "index.html": "/photo-portfolio/index.html",
     "main.4c06a400.css.map": "/photo-portfolio/static/css/main.4c06a400.css.map",
-    "main.2c814af2.js.map": "/photo-portfolio/static/js/main.2c814af2.js.map"
+    "main.110598d4.js.map": "/photo-portfolio/static/js/main.110598d4.js.map"
   },
   "entrypoints": [
     "static/css/main.4c06a400.css",
-    "static/js/main.2c814af2.js"
+    "static/js/main.110598d4.js"
   ]
 }
