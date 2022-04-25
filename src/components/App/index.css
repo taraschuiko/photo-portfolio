@@ -1,6 +1,5 @@
 h1 {
-  padding: 20px;
-  margin: 0;
+  margin: 0 20px 0 0;
   display: inline-block;
   font-weight: 700;
 }
@@ -17,4 +16,16 @@ span {
   .App > img {
     margin-bottom: 11px;
   }
+}
+
+.header {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header img {
+  height: 20px;
+  margin-left: 20px;
 }
