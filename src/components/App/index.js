@@ -14,7 +14,7 @@ function App() {
           <h1>Taras Chuiko</h1>
           <span>Photography</span>
         </div>
-        <div>
+        <div className="social-links">
           <a href="https://www.instagram.com/taraschuiko/" target="_blank" rel="noreferrer">
             <img src={instagramIcon} alt="Instagram" />
           </a>

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/photo-portfolio/static/css/main.26f18e89.css",
-    "main.js": "/photo-portfolio/static/js/main.6ef8d7cf.js",
+    "main.css": "/photo-portfolio/static/css/main.a50dff6d.css",
+    "main.js": "/photo-portfolio/static/js/main.fec96da6.js",
     "static/media/IMG_9203.jpg": "/photo-portfolio/static/media/IMG_9203.b1e50ba44b5f3cf466aa.jpg",
     "static/media/IMG_9205.jpg": "/photo-portfolio/static/media/IMG_9205.3b1ed4f7625aa44bf9ee.jpg",
     "static/media/IMG_9196.jpg": "/photo-portfolio/static/media/IMG_9196.9c25a3e48668cf3bb27c.jpg",
@@ -82,11 +82,11 @@
     "index.html": "/photo-portfolio/index.html",
     "static/media/pexels.svg": "/photo-portfolio/static/media/pexels.2827c82a4ee3f6cd7b8288a8bd670195.svg",
     "static/media/unsplash.svg": "/photo-portfolio/static/media/unsplash.49e808445d148879c7f256b62f1e64f0.svg",
-    "main.26f18e89.css.map": "/photo-portfolio/static/css/main.26f18e89.css.map",
-    "main.6ef8d7cf.js.map": "/photo-portfolio/static/js/main.6ef8d7cf.js.map"
+    "main.a50dff6d.css.map": "/photo-portfolio/static/css/main.a50dff6d.css.map",
+    "main.fec96da6.js.map": "/photo-portfolio/static/js/main.fec96da6.js.map"
   },
   "entrypoints": [
-    "static/css/main.26f18e89.css",
-    "static/js/main.6ef8d7cf.js"
+    "static/css/main.a50dff6d.css",
+    "static/js/main.fec96da6.js"
   ]
 }

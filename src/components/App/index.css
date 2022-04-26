@@ -25,7 +25,15 @@ span {
   align-items: center;
 }
 
-.header img {
-  height: 20px;
+.social-links {
+  display: flex;
+}
+
+.social-links a {
+  display: inline-block;
   margin-left: 20px;
+}
+
+.social-links img {
+  height: 20px;
 }
