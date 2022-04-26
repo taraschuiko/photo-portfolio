@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/photo-portfolio/static/css/main.26f18e89.css",
-    "main.js": "/photo-portfolio/static/js/main.9d6fe749.js",
+    "main.js": "/photo-portfolio/static/js/main.6ef8d7cf.js",
     "static/media/IMG_9203.jpg": "/photo-portfolio/static/media/IMG_9203.b1e50ba44b5f3cf466aa.jpg",
     "static/media/IMG_9205.jpg": "/photo-portfolio/static/media/IMG_9205.3b1ed4f7625aa44bf9ee.jpg",
     "static/media/IMG_9196.jpg": "/photo-portfolio/static/media/IMG_9196.9c25a3e48668cf3bb27c.jpg",
@@ -40,7 +40,6 @@
     "static/media/DSC04474.jpg": "/photo-portfolio/static/media/DSC04474.95fabfcdf6c67925babf.jpg",
     "static/media/IMG_8732.jpg": "/photo-portfolio/static/media/IMG_8732.83aa6d1468ebc3b3faff.jpg",
     "static/media/IMG_9266.jpg": "/photo-portfolio/static/media/IMG_9266.e1ed054444a76434c692.jpg",
-    "static/media/20220103153533_IMG_7766 (1).jpg": "/photo-portfolio/static/media/20220103153533_IMG_7766 (1).31998b247fac3546f7b5.jpg",
     "static/media/DSC04520.jpg": "/photo-portfolio/static/media/DSC04520.bab09530e19c1e29ec6a.jpg",
     "static/media/IMG_9151.jpg": "/photo-portfolio/static/media/IMG_9151.0b2c108294d62aa4b681.jpg",
     "static/media/IMG_9289.jpg": "/photo-portfolio/static/media/IMG_9289.e711767734621db02910.jpg",
@@ -48,7 +47,6 @@
     "static/media/IMG_9509.jpg": "/photo-portfolio/static/media/IMG_9509.bc6204910f903ba3e5ec.jpg",
     "static/media/20220112163753_IMG_8027 (3).jpg": "/photo-portfolio/static/media/20220112163753_IMG_8027 (3).099afb25ac19eeb4c705.jpg",
     "static/media/IMG_8507.jpg": "/photo-portfolio/static/media/IMG_8507.14bc2a4bb0bbba6ba303.jpg",
-    "static/media/DSC03793.jpg": "/photo-portfolio/static/media/DSC03793.28635880ab536267ec76.jpg",
     "static/media/IMG_9253.jpg": "/photo-portfolio/static/media/IMG_9253.bfce19bb229946374ddd.jpg",
     "static/media/IMG_9511.jpg": "/photo-portfolio/static/media/IMG_9511.db59a1538344e1960343.jpg",
     "static/media/DSC01606.jpg": "/photo-portfolio/static/media/DSC01606.f5ea4571915f5817b635.jpg",
@@ -80,14 +78,15 @@
     "static/media/IMG_9177.jpg": "/photo-portfolio/static/media/IMG_9177.5516cd421382bfe3ed43.jpg",
     "static/media/DSC01323.jpg": "/photo-portfolio/static/media/DSC01323.cda5ca871b9ed1d29e17.jpg",
     "static/media/instagram.svg": "/photo-portfolio/static/media/instagram.4b7e11ae5ead54b54bd167268f54a633.svg",
+    "static/media/etsy.svg": "/photo-portfolio/static/media/etsy.092fccd6bebffdf23329feb3c903b4b2.svg",
     "index.html": "/photo-portfolio/index.html",
     "static/media/pexels.svg": "/photo-portfolio/static/media/pexels.2827c82a4ee3f6cd7b8288a8bd670195.svg",
     "static/media/unsplash.svg": "/photo-portfolio/static/media/unsplash.49e808445d148879c7f256b62f1e64f0.svg",
     "main.26f18e89.css.map": "/photo-portfolio/static/css/main.26f18e89.css.map",
-    "main.9d6fe749.js.map": "/photo-portfolio/static/js/main.9d6fe749.js.map"
+    "main.6ef8d7cf.js.map": "/photo-portfolio/static/js/main.6ef8d7cf.js.map"
   },
   "entrypoints": [
     "static/css/main.26f18e89.css",
-    "static/js/main.9d6fe749.js"
+    "static/js/main.6ef8d7cf.js"
   ]
 }
