@@ -27,6 +27,7 @@ span {
 
 .social-links {
   display: flex;
+  align-items: center;
 }
 
 .social-links a {
@@ -36,4 +37,12 @@ span {
 
 .social-links img {
   height: 20px;
+}
+
+.social-links .contact-button {
+  background: #000;
+  color: #fff;
+  text-decoration: none;
+  padding: 8px 13px;
+  margin-bottom: 3.5px;
 }

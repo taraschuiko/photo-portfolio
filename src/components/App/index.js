@@ -14,6 +14,7 @@ function App() {
           <span>Photography</span>
         </div>
         <div className="social-links">
+          <a href="mailto:taraschuiko@gmail.com" className="contact-button">Contact Me</a>
           <a href="https://www.instagram.com/taraschuiko/" target="_blank" rel="noreferrer">
             <img src={instagramIcon} alt="Instagram" />
           </a>
