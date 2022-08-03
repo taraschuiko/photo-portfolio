@@ -10,7 +10,7 @@ function importAll(r) {
 
 // Minify all images to 75% quality before using
 const images = importAll(
-  require.context("../../photos", false, /\.(png|jpe?g)$/)
+  require.context("../../photos", false, /\.(png|jpe?g|webp)$/)
 ).sort(() => 0.5 - Math.random());
 
 const Image = ({ image }) => {
