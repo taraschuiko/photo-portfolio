@@ -1,6 +1,6 @@
 import "./index.css";
 import Gallery from "../Gallery";
-import me from "../../assets/me.jpg";
+import me from "../../assets/me.webp";
 import instagramIcon from "../../assets/icons/instagram.svg"
 import pexelsIcon from "../../assets/icons/pexels.svg"
 import unsplashIcon from "../../assets/icons/unsplash.svg"
